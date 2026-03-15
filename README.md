@@ -1,2 +1,0 @@
-# Discord
-teste-de-conexao
